@@ -1,0 +1,11 @@
+p {
+  font-family: Lato;
+}
+div{
+  display:inline-block;
+  margin:.5rem;
+}
+div:focus{
+  border:1px solid black;
+  outline: none
+}
